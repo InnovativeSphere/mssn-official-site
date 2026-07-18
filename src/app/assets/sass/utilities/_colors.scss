@@ -1,0 +1,42 @@
+$colors: (
+    common: (
+        white: #ffffff,
+        black: #000000,
+    ),
+    heading: (
+        primary: #142f52,     // was #0c1e21 → now client's navy
+    ),
+    text: (
+        body: #2d4a53,        // slightly adjusted for better contrast on white
+        body-2: #8fa9ad,      // muted, was #a9b8b8
+        body-3: #4d646a,      // was #67787a
+        body-4: #0f2329,      // was #18292c
+        body-5: #ffffffcc,
+    ),
+    theme: (
+        primary: #29b6d8,     // client's teal — was #1e8a8a
+        bg: #e8f6f9,          // lighter teal tint, was #d8e5e5
+        bg-2: #d0edf2,        // was #cee0e0
+        bg-3: #142f52,        // navy replaces old dark #202e30
+        dark: #142f52,        // navy — was #0c1e21
+        dark-2: #0f2329,      // was #18292c
+        dark-3: #2d4a53,      // was #364e52
+        dark-4: #4d646a,      // was #67787a
+        dark-5: #4d5663,      // was #676e7a
+    ),
+    red: (
+        1: #ff0000,
+    ),
+    grey: (
+        1: #f0f4f4,           // was #ecf0f0
+        2: #8fa9ad,           // was #a9b8b8
+        3: #ffffff1a,
+    ),
+    border: (
+        1: #b6cdd1,           // was #c9d1d1
+        2: #2d4247,           // was #313d3d
+        3: #ffffff26,
+        4: #ffffff33,
+        5: #29b6d826,         // teal tint — was #1e8a8a26
+    ),
+);

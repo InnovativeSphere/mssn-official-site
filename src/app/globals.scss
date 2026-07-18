@@ -1,0 +1,32 @@
+
+
+// Core Components
+@forward "./assets/sass/components/theme";
+@forward "./assets/sass/components/buttons";
+@forward "./assets/sass/components/footer";
+@forward "./assets/sass/components/search";
+@forward "./assets/sass/components/hamburger";
+@forward "./assets/sass/components/preloader";
+@forward "./assets/sass/components/404";
+@forward "./assets/sass/components/backtotop";
+@forward "./assets/sass/components/tj-animation";
+@forward "./assets/sass/components/cursor";
+@forward "./assets/sass/components/rangeSlider";
+@forward "./assets/sass/components/tj-modal";
+
+// Layout Sections (only the ones we'll use)
+@forward "./assets/sass/layout/hero";
+@forward "./assets/sass/layout/about";
+@forward "./assets/sass/layout/services";
+@forward "./assets/sass/layout/working-process";
+@forward "./assets/sass/layout/testimonial";
+@forward "./assets/sass/layout/pricing";
+@forward "./assets/sass/layout/cta";
+@forward "./assets/sass/layout/faq";
+@forward "./assets/sass/layout/contact";
+
+// Animations
+@forward "./assets/sass/layout/animate";
+
+
+
